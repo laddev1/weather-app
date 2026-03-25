@@ -1,0 +1,1 @@
+export { validateLocation } from "./validateLocation";
